@@ -1,0 +1,51 @@
+{
+  "summary": {
+    "rating": 5.0,
+    "total": 32,
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJH95-sSR1sRIRuxYiRpEN3As"
+  },
+  "reviews": [
+    {
+      "author": "Laura G.",
+      "profile": "",
+      "rating": 5,
+      "when": "il y a 4 mois",
+      "text": "Belle découverte pour sublimer ses ongles à Saint-Geniès ! ✨"
+    },
+    {
+      "author": "Laure",
+      "profile": "",
+      "rating": 5,
+      "when": "il y a 1 semaine",
+      "text": "Une véritable transformation ! Mes ongles fatigués ont retrouvé toute leur beauté grâce à cette pose de gel avec strass."
+    },
+    {
+      "author": "Stesss",
+      "profile": "",
+      "rating": 5,
+      "when": "il y a 1 mois",
+      "text": "Son accueil est chaleureux, bienveillant et très professionnel. Elle fait preuve de beaucoup de patience et adore ce qu'elle fait."
+    },
+    {
+      "author": "Angelique M.",
+      "profile": "",
+      "rating": 5,
+      "when": "il y a 1 mois",
+      "text": "Accueil chaleureux, travail soigné et un résultat au top. Mention spéciale pour la longue tenue des ongles, même après plusieurs semaines. Je recommande sans hésiter !"
+    },
+    {
+      "author": "Hélène G.",
+      "profile": "",
+      "rating": 5,
+      "when": "il y a 2 mois",
+      "text": "Très satisfaite de la pose gel. Petite attente à l’arrivée mais ça valait le coup."
+    },
+    {
+      "author": "Sarah M.",
+      "profile": "",
+      "rating": 5,
+      "when": "il y a 3 jours",
+      "text": "French impeccable, rapide et soigné. Merci pour votre gentillesse !"
+    }
+  ]
+}
